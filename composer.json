@@ -1,7 +1,6 @@
 {
     "name": "tmac/uploadfile",
     "description": "一个通用的文件上传包",
-    "license": "1.0.0",
     "authors": [
         {
             "name": "zhengyonghui",
