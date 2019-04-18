@@ -9,7 +9,7 @@ namespace tmac;
 
 class UploadFile
 {
-   public function upload(int $int):string 
+   public function upload(int $int):string
    {
        return md5($int);
    }
